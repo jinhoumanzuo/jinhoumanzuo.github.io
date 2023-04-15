@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>今后满座</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 今后满座</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Apr 2023 20:12:49 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联系我们</title>
+      <link>http://example.org/posts/contact-us/</link>
+      <pubDate>Sat, 15 Apr 2023 20:12:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/contact-us/</guid>
+      <description>公司 成都盾深网络科技有限公司 联系人 汪乾华 +86 18381831680 </description>
+    </item>
+    
+  </channel>
+</rss>
